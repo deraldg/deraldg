@@ -1,16 +1,46 @@
-### Hi there 👋
+# Derald Grimwood
 
-<!--
-**deraldg/deraldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer of **DotTalk++** — a modern xBase-style database engine and CLI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+### 🔧 DotTalk++ (x64base)
+
+A 64-bit C++ rebuild of the classic xBase workflow, combining:
+
+- DBF-based engine design
+- CLI-driven interaction
+- LMDB-backed indexing (CDX-style direction)
+- DotScript automation
+- Python integration (in progress)
+
+👉 https://github.com/deraldg/dottalkpp
+
+---
+
+## Focus
+
+- database engine design
+- data conversion and migration
+- legacy system modernization
+- practical, scriptable workflows
+
+---
+
+## Background
+
+- Senior analyst/programmer
+- SAP, SQL, COBOL, C/C++
+- Unix/Linux systems
+- Technical instruction (community college level)
+
+---
+
+## Direction
+
+Building a practical, understandable system that bridges:
+
+```text
+Classic database workflows → Modern systems → Scriptable automation
