@@ -6,7 +6,7 @@ Developer of **DotTalk++** — a modern xBase-style database engine and CLI.
 
 ## Current Project
 
-### 🔧 DotTalk++ (x64base)
+### 🔧 DotTalk++ (x64base) Earlier Version
 
 A 64-bit C++ rebuild of the classic xBase workflow, combining:
 
